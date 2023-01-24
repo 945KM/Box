@@ -44,7 +44,7 @@
     <string name="det_des"></string>
 
     // Settings Menu Page //
-    <string name="mn_config">Configuration Address</string>
+    
     <string name="mn_home">Source</string>
     <string name="mn_home_show">Source Display</string>
     <string name="mn_home_type">Type</string>
